@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chronograph Watch Mudmaster
+* source:	https://sketchfab.com/3d-models/chronograph-watch-mudmaster-80c3959e74744356b60bf44e1bbbcaeb
+* author:	graphiccompressor (https://sketchfab.com/tityus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chronograph Watch Mudmaster" (https://sketchfab.com/3d-models/chronograph-watch-mudmaster-80c3959e74744356b60bf44e1bbbcaeb) by graphiccompressor (https://sketchfab.com/tityus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
