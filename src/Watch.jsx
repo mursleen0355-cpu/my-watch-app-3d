@@ -1,16 +1,23 @@
-import { useGLTF } from '@react-three/drei';
+import { useGLTF } from "@react-three/drei";
 
 export default function Watch(props) {
-  const { scene } = useGLTF('/models/scene.gltf');
+  const { scene } = useGLTF(
+  "/models/watch-draco.glb",
+  true
+);
 
   return (
     <primitive
       object={scene}
-      scale={0.1}
-      position={[0, -0.5, 0]}
+      scale={0.24}
+      position={[0, 0, 0]}
+      rotation={[0.08, -0.22, 0]}
       {...props}
     />
   );
 }
 
-useGLTF.preload('/models/scene.gltf');
+useGLTF.preload(
+  "/models/watch-draco.glb",
+  true
+);
