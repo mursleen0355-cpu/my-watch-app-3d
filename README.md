@@ -90,3 +90,42 @@ Model License:
 * requirements: Author must be credited. Commercial use is allowed.
 
 "Chronograph Watch Mudmaster" (https://sketchfab.com/3d-models/chronograph-watch-mudmaster-80c3959e74744356b60bf44e1bbbcaeb) by graphiccompressor (https://sketchfab.com/tityus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+## Local Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mursleen0355-cpu/my-watch-app-3d.git
+```
+
+Open the cloned project:
+
+```bash
+cd my-watch-app-3d
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
